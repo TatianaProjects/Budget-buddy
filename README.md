@@ -13,4 +13,4 @@ A monthly budgeting tool to track income and expenses. Helps plan savings and ma
 <img src="budget_preview.jpg" alt="Budget Buddy Preview" width="400">
 
 ### Technologies
-JavaScript, HTML5, CSS3, LocalStorage
+JavaScript, HTML5, CSS3
