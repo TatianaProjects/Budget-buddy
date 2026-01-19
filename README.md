@@ -17,4 +17,4 @@ https://budgetbuddyproject2026.netlify.app/
 
 ### Screenshots
 
-<img src="budget_preview.jpg" alt="Weather App Preview" width="400">
+<img src="budget_preview.jpg" alt="Budget buddy Preview" width="400">
