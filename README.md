@@ -1,20 +1,16 @@
-# Budget Buddy
+## Budget Buddy 💰
 
-A simple budgeting web application built with JavaScript.
+A monthly budgeting tool to track income and expenses. Helps plan savings and manage money efficiently.
 
-## Features
-- Monthly income and expense tracking
-- Automatic balance calculation
-- Responsive and clean UI
+### Features
+- Add, edit, and delete income/expenses
+- Automatic calculation of balance
 
-## Technologies
-- HTML
-- CSS
-- JavaScript
+### Demo
+[Live Demo on Netlify](https://budgetbuddyproject2026.netlify.app/)
 
-## Live Demo
-https://budgetbuddyproject2026.netlify.app/
+### Screenshot
+<img src="budget_preview.jpg" alt="Budget Buddy Preview" width="400">
 
-### Screenshots
-
-<img src="budget_preview.jpg" alt="Budget buddy Preview" width="400">
+### Technologies
+JavaScript, HTML5, CSS3, LocalStorage
