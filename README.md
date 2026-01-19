@@ -14,3 +14,7 @@ A simple budgeting web application built with JavaScript.
 
 ## Live Demo
 https://budgetbuddyproject2026.netlify.app/
+
+### Screenshots
+
+<img src="budget_preview.jpg" alt="Weather App Preview" width="400">
